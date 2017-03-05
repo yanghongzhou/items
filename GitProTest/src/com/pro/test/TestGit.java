@@ -9,6 +9,7 @@ public class TestGit {
 		// TODO Auto-generated method stub
 
 		System.out.println("aa");
+		System.out.println("success to upload");
 	}
 
 }
