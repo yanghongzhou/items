@@ -10,6 +10,7 @@ public class TestGit {
 
 		System.out.println("aa");
 		System.out.println("success to upload");
+		System.out.println("what happened");
 	}
 
 }
