@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="GitProTest"
+  id="myeclipse.1488706938528"
+  context-root="/GitProTest"
+  j2ee-spec="5.0"
+  archive="GitProTest.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
